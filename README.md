@@ -34,13 +34,8 @@ Atom Hospital is a web-based hospital management system designed to streamline p
 1. **Clone the repository**
 2. **Install Requirements**
    - Ensure you have a web server with PHP and SQLite support (e.g., XAMPP, WAMP, or LAMP).
-   - (Optional) For generating fake data, install Python and run `pip install faker`.
 3. **Database Initialization**
    - The system will auto-create necessary tables on first run.
-   - To generate fake patient data, run:
-     ```
-     python database/dbmaker.py
-     ```
    - If you want to manually create an admin user, use the Admin Panel or insert directly into `users.db`.
 4. **Set Default Admin User**
    - The system allows login with the following credentials by default:
