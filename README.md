@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo/image.png" alt="Atom-hospital" width="100" height="100">
+  <img src="logo/image.png" alt="Atom-hospital">
   <h1>Atom Hospital Website</h1>
 </div>
 
